@@ -1,0 +1,31 @@
+	user_id	question_id	title
+0	7815011	59226055	Setting Git Tag from Azure Devops Build Pipeline on Complete
+1	416988	70442149	Calculate mean and sd for given variables in a dataframe
+2	15277573	70442294	Airflow kubernetes pod operator and sharing files between tasks?
+3	16949484	70440943	How do I correctly use pd.set_option?
+4	10321138	70441881	How to check if a list of custom types, contains a subset of values of that type in Kotlin?
+5	2947077	70442278	Sorting a list of objects on 4 attributes, and then on random
+6	6279762	70431508	Object reference not set to an instance of an object in genexus
+7	2903695	70441662	Flutter: Widget compression priority
+8	8791491	70435424	Unexpected difference in behaviour with/out let block
+9	12446991	70442290	Convert XML to JSON with JavaScript
+10	9198260	70442161	Count the values of a column based on the values of another column in R
+11	17732678	70439363	Problem Using a Switch to Set A TimeInterval
+12	3969085	70442288	Custom control of multiple seek bars
+13	13468711	70441419	Adding {% csrf_token %} to javascript HTML insertion
+14	17694534	70441652	Typescript type within object array notation
+15	17735264	70441231	Qt C++ QNetworkRequest not making any requests
+16	662285	70441915	Get data for Last day of each week
+17	13684817	70418981	Why do I get a platformdirs.mac error from my libraries when I use PyInstaller?
+18	17341105	70441491	binary search tree delete function deleting the same thing twice
+19	17735746	70442190	How to fix &quot;The I/O operation has been aborted because of either a thread exit or an application request&quot; with SerialPort in VB.NET?
+20	17735779	70442285	Highlighting Syntax in mcedit for assembly
+21	15505973	70442284	Implement a date time picker in Python Flask
+22	14645957	70442283	Coalesce pairs of variables within a dataframe based on a regular expression
+23	12210377	70442165	Filter Dataframe Based on Highest and Lowest Row Values with Increasing Timeline
+24	7804238	50091466	Getting weights from tensorflow.js neural network
+25	17644816	70434527	vue/comment-directive clear eslint-plugin-vue
+26	680847	70442135	Typescript: capture type with constraint without actually extending/widening
+27	1134071	68756419	Dockerfile Multistage Python Poetry - install
+28	4950081	55085064	XGetImage Failed Error when using python MSS library on Ubuntu
+29	6323124	70442281	Testing error output on a custom component in Angular
