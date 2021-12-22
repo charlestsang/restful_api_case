@@ -1,8 +1,18 @@
 # Restful_api_case_study
- a case study of rest api with stack open data
+ A a case study of rest api with stackoverflow.com open api data
 
-### Data source: sample 3rd party data: api from Stackover 2.3 reslease; running jupyter notebook to extract sample json data.
+### Data source: 
+sample 3rd party data: api from Stackover 2.3 reslease; running jupyter notebook to extract sample json data.
+https://api.stackexchange.com/docs/questions
+
+![image](https://user-images.githubusercontent.com/14142646/147071137-b59f7889-e070-4347-946e-1da56381e1de.png)
+
+
 ![image](https://user-images.githubusercontent.com/14142646/147011323-4a5f001d-a6ad-4e6d-9148-526403813ab6.png)
+
+### Abstract data model
+![image](https://user-images.githubusercontent.com/14142646/147070928-74581f03-aa11-496b-a746-146874e8c9e3.png)
+
 
 
 ## REST API demo from Postman app:
